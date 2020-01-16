@@ -1,10 +1,10 @@
 # Jacqueline Kendi Portfolio
-Stream One Project: User-Centric Frontend Development - Andela Kenya 
+ 
 
 This is my portfolio website to present to prospective employers. The portfolio highlights six projects that cover a range of technologies, as well as including a bit about myself, my coding skills, and a contact form.
 
 ## Demo
-A live demo can be found [here](#).
+A live demo can be found [here](https://kendij.github.io/My-PortFolio/).
 
 
 ## UX
