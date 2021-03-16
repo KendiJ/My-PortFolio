@@ -143,6 +143,7 @@ h2 {
 .about-row .about-p {
     font-size: .8em;
     margin: 40px 0px 40px 0px;
+    color: black;
 }
 
 /*------------WORK----------*/
@@ -472,7 +473,7 @@ a.privacy-policy:hover {
 }
 
 @media (min-width: 992px) {
-    #about-me {
+    #about-me-back {
         background-image: url('../images/kendys.jpg');
         background-position: right;
         background-size: cover;
